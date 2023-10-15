@@ -1,4 +1,5 @@
-#codex food-beverages-analysis
+# codex food-beverages-analysis
+
 🌟 Task:
 
 My role was to analyze survey data from 10,000 participants and extract meaningful insights. This helped CodeX make informed marketing decisions, increase brand awareness, and enhance product development.
