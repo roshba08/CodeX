@@ -1,4 +1,4 @@
-# codex food-beverages-analysis
+# Codex food-beverages-analysis
 
 🌟 Task:
 
